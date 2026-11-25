@@ -36,10 +36,10 @@ const {
  *             properties:
  *               name:
  *                 type: string
- *                 example: Afdhal
+ *                 example: Example
  *               email:
  *                 type: string
- *                 example: afdhal@example.com
+ *                 example: Example@example.com
  *               password:
  *                 type: string
  *                 minLength: 6
