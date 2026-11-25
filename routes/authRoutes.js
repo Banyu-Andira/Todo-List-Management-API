@@ -78,7 +78,7 @@ router.post(
  *             properties:
  *               email:
  *                 type: string
- *                 example: afdhal@example.com
+ *                 example: example@example.com
  *               password:
  *                 type: string
  *                 example: rahasia123
